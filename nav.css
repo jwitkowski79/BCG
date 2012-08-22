@@ -1,0 +1,81 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+html {
+     height:100%;
+     width:100%;
+     overflow: hidden;
+     margin-bottom:40px;
+}
+
+
+
+/*First I change the background color to black. It's not required but my graphics just looks better on black;) */
+body {
+	background-color: #CC6600;
+	height: 100%;
+}
+/*Then I use universal selector (*) to remove browser's default values of padding and margin from all elements. I think it just makes life easier. Alternatively, you could place these declarations under the ul selector.*/
+* {
+margin: 0;
+padding: 0;
+}
+/*Now we are going style the ul with CSS. CSS declaration block for ul:*/
+ul {
+	list-style-type: none;
+	height: 20px;
+	width: 800px;
+	margin: auto;
+	float: left;
+	display: block;
+	background-color: #007856;
+}
+#container #section {
+	float: left;
+	padding-left: 20px;
+}
+#container #footer {
+	float: none;
+	clear: both;
+}
+/*Next the menu is made horizontal by floating li elements with CSS:*/
+li {
+	float: left;
+}
+
+/*Links are styled by making the following declarations to the descendant link (a) selector:*/
+ul a {
+background-color: #007856;
+padding-right: 32px;
+padding-left: 32px;
+display: block;
+line-height: 20px;
+text-decoration: none;
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size: 12px;
+color: #371C1C;
+}
+
+/*Last thing to do is a small visual enhancement. The following CSS declaration block creates mouse-over color change to the links:*/
+ul a:hover {
+color: #FFF;
+}
+
+#container {
+	background-color: #FFFFFF;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 100%;
+}
+#container iframe {
+	float: right;
+	padding-top: 25px;
+}
+#container h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	float: left;
+	padding: 10px;
+}

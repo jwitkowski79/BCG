@@ -1,0 +1,160 @@
+@charset "UTF-8";
+
+
+.clearfix:after {
+	clear: both;
+	display: block;
+	content: " ";
+	height: 0px;
+	visibility: hidden;
+}
+.clearfix {
+	display: inline-block;
+}
+/* Hide these rules from IE-mac \*/
+* html .clearfix {
+	height: 1%;
+}
+.clearfix {
+	display: block;
+}
+li.clearfix {
+	display: list-item;
+}
+/* End hide from IE-mac */
+
+
+html {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	}
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #89205c;
+	background-image: url(images/whiteTop.gif);
+	background-repeat: repeat-x;
+	height: 100%;
+	}
+#pageContainer {
+	width: 750px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 100%;
+	margin-top: 10px;
+	background-image: url(images/background.png);
+	background-repeat: repeat-y;
+}
+#contentContainer {
+	background-color: #FFFFFF;
+	width: 740px;
+	height: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+#pageHeader {
+	background-image: url(images/BCG_logo.jpg);
+	background-repeat: no-repeat;
+	background-size: 40%;
+	background-position: 40px 50px;
+	display: block;
+	height: 150px;
+	border-bottom-width: 10px;
+	border-bottom-style: solid;
+	border-bottom-color: #89205C;
+	clear: right;
+	margin-right: -10px;
+	margin-left: -10px;
+}
+#pageNav {
+	padding: 0px;
+	margin-top: 40px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	display: block;
+	float: left;
+	width: 45%;
+}
+#pageSection {
+	display: block;
+	float: left;
+	width: 45%;
+	clear: left;
+}
+#pageNav ul {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	list-style-type: none;
+	color: #89205C;
+	line-height: 60px;
+	display: block;
+	padding: 0px;
+	margin-left: 40px;
+	margin-top: 0px;
+}
+#pageNav ul li {
+	display: block;
+}
+#pageNav a {
+	text-decoration: none;
+	color: #999999;
+}
+#pageNav a:hover {
+	text-decoration: none;
+	color: #89205C;
+}
+.sectionHeader  {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #89205C;
+	margin-left: 40px;
+	margin-top: 40px;
+	line-height: 20px;
+}
+.clearfix {
+	display: block;
+}
+.sectionArticle  p  {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	color: #666666;
+	line-height: 25px;
+	margin-left: 40px;
+}
+#pageAside {
+	background-image: url(images/aside-img1.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	display: block;
+	float: right;
+	height: 75%;
+	width: 50%;
+	padding: 0px;
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#slideshow {
+	overflow:auto;
+	width:370px;
+	float: right;
+	height: 500px;
+	padding: 0px;
+	left: 0px;
+	top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#pageSectionP {
+	display: block;
+	float: left;
+	width: 45%;
+	clear: left;
+}
