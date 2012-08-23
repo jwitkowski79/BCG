@@ -10,12 +10,14 @@ body {
 	background-repeat: repeat-x;
 }
 
+.clearMe{clear:both;}
+
 /* ~~ Element/tag selectors ~~ */
 ul, ol, dl { /* Due to variations between browsers, it's best practices to zero padding and margin on lists. For consistency, you can either specify the amounts you want here, or on the list items (LI, DT, DD) they contain. Remember that what you do here will cascade to the .nav list unless you write a more specific selector. */
 	padding: 0;
 	margin: 0;
 }
-h1, h2, h3, h4, h5, h6, p {
+h1,  h3, h4, h5, h6, p {
 	margin-top: 0;	 /* removing the top margin gets around an issue where margins can escape from their containing div. The remaining bottom margin will hold it away from any elements that follow. */
 	padding-right: 15px;
 	padding-left: 15px; /* adding the padding to the sides of the elements within the divs, instead of the divs themselves, gets rid of any box model math. A nested div with side padding can also be used as an alternate method. */
@@ -27,6 +29,15 @@ h1, h2, h3, h4, h5, h6, p {
 	color: #89205C;
 	padding-left: 36px;
 	padding-top: 25px;
+}
+
+h2{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 25px;
+	font-weight: bold;
+	color: #89205C;
+	padding:20px 0px 0px -15px;
+	
 }
 a img { /* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
 	border: none;
@@ -64,6 +75,7 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 #Insert_logo {
 	position: relative;
 	top: 64px;
+	float:left;
 }
 
 /* ~~ the header is not given a width. It will extend the full width of your layout. It contains an image placeholder that should be replaced with your own linked logo ~~ */
@@ -75,6 +87,44 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 	border-bottom-color: #89205C;
 }
 
+ul.headerBullets{
+	float:right;
+	list-style-type:none;
+	margin:40px 10px 0px 0px;
+	text-align:right;
+	color:#89235c;
+	position:relative;
+}
+
+ul.headerBullets li{
+	margin:8px 0px;
+	padding:0px 20px 0px 0px;
+	background:url(images/arrow.jpg) no-repeat center right;
+	position:relative;
+}
+
+ul.headerBullets li div{
+	color:#000;
+	font-size:12px;
+	width:300px;
+	position:absolute;
+	top:25px;
+	left:-120px;
+	background-color:#fff;
+	z-index:30;
+	padding:10px;
+	border:1px solid #e9e9e9;
+	min-height:65px;
+	display:none;
+}
+
+ul.headerBullets li:hover{
+	cursor:pointer;
+}
+
+ul.headerBullets li:hover div{
+	display:block;
+}
 /* ~~ These are the columns for the layout. ~~ 
 
 1) Padding is only placed on the top and/or bottom of the divs. The elements within these divs have padding on their sides. This saves you from any "box model math". Keep in mind, if you add any side padding or border to the div itself, it will be added to the width you define to create the *total* width. You may also choose to remove the padding on the element in the div and place a second div within it with no width and the padding necessary for your design. You may also choose to remove the padding on the element in the div and place a second div within it with no width and the padding necessary for your design.
@@ -203,3 +253,132 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background
 	padding-right: 30px;
 	display: block;
 }
+
+/* ~~ testimonials~~ */
+
+#slideshow div{
+	width:350px;
+	margin-top:10px;
+}
+
+#slideshow p{
+	font-size:13px;
+	line-height:22px;
+}
+
+#slideshow p.credit{
+	text-align:right;
+	font-style:italic;
+}
+
+
+/* ~~ tabbed portfolio~ */
+#tabs{
+	width:459px;
+	position:relative;
+}
+
+#logos, #print, #web, #multi{
+	float:left;
+	border-left:2px solid #d1d2d4;
+	border-bottom:2px solid #d1d2d4;
+	border-right:2px solid #d1d2d4;
+	padding:10px 10px 10px 10px;
+	width:435px;
+	height:520px;
+	
+}
+
+
+#tabs ul#menu{
+	margin:20px 0px 0px 0px;
+	padding:0px;
+	float:left;
+}
+
+#tabs ul#menu li{
+	display:block;
+	float:left;
+	margin:0px 2px 0px 0px;
+	background-color:#d1d2d4;
+	text-transform:uppercase;
+	padding:5px 23px;
+	font-size:15px;
+}
+
+#tabs ul#menu li:last-child{
+	margin-right:0px !important;
+}
+
+#tabs ul#menu li a{
+	text-decoration:none;
+	color:#fff;
+	font-weight:bold;
+}
+
+#tabs ul#menu li a:hover, #tabs ul li.active a{
+	color: #89205c;
+}
+
+.slideshow2, .slideshow2 div{
+	width:435px !important;
+	float:left;
+	text-align:center;
+}
+
+
+a#prev2{
+	width:26px;
+	height:105px;
+	background:url(images/arrow_left.gif) no-repeat;
+	text-indent:-9999px;
+	line-height:50px;
+}
+
+ul.slideNav{
+list-style-type:none;
+padding:0px;
+margin:0px;
+}
+
+ul.slideNav li#prev2{
+	width:26px;
+	height:105px;
+	background:url(images/arrow_left.gif) no-repeat;
+	line-height:1000px;
+	overflow:hidden;
+	float:left;
+	position:absolute;
+	top:230px;
+	z-index:1000;
+}
+
+ul.slideNav li#next2{
+	width:26px;
+	height:105px;
+	background:url(images/arrow_right.gif) no-repeat;
+	line-height:1000px;
+	overflow:hidden;
+	position:absolute;
+	right:10px;
+	top:230px;
+	z-index:1001;
+}
+
+.slideshow2 div p{
+	text-align:left;
+	font-size:12px;
+}
+
+ul.slideNav li#next2 a{
+cursor:pointer;
+}
+
+ul.slideNav li#next2:hover, ul.slideNav li#prev2:hover{
+	cursor:pointer;
+	background-color:#444;
+}
+
+
+
+
