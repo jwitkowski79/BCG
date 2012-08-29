@@ -3,7 +3,6 @@
     <ul class="nav">
       <li>About Us</li>
       <li><a href="portfolios.php">Portfolio</a></li>
-      <li><a href="current_projects.php">Current Projects</a></li>
       <li><a href="contact.php">Contact Us</a></li>
     </ul>
   
@@ -23,16 +22,20 @@
    	 
    	 <div><p>"I just saw the latest print - it’s absolutely exquisite - thank you thank you thank you. The brochure is so beautiful and inspiring...wholly due to your design work. Thank you so much"</p> <p class="credit">Megan Weaver<br/>Co-Founder<br/>  Revitalize Buffalo</p></div><!--testimonial six-->
    	 
+   	 <div><p>"Your talent is amazing! Thanks so much for helping us help our "special" children. You have definitely "classed up" our event!"</p> <p class="credit">Janice R.Rockwood<br/>Co-Chair, 'Miles for Smiles' Annual Wine Tasting Event<br/>
+The Women & Children's Hospital of Buffalo</p></div><!--testimonial seven-->
+
+	<div><p>"If you're going to survive and prosper you will need help from the right kind of people. Buffalo Creative Group brings an impressive array of knowledge and skills to the table, including a broad range of marketing experience coupled with excellent design skills."</p><p class="credit">Donald Troyer<br/>Owner<br/>Print King<p></div><!--testimonial eight-->
+
+   	<div><p>"Thanks again for your help. I truly appreciate your willingness to be flexible around my needs and desires. I’m honored and pleased to provide a reference for the wonderful work that you have done."</p> <p class="credit">Sandy Simon Kappelmann<br/>Owner<br/>  Zesty Life Coaching</p></div><!--testimonial nine-->
    
-   <div><p>"Thanks again for your help. I truly appreciate your willingness to be flexible around my needs and desires. I’m honored and pleased to provide a reference for the wonderful work that you have done."</p> <p class="credit">Sandy Simon Kappelmann<br/>Owner<br/>  Zesty Life Coaching</p></div><!--testimonial seven-->
-   
-     <div><p>"Delivering on time and under budget, I would recommend Buffalo Creative Group to anyone looking for a uniquely creative collaboration."</p> <p class="credit">Dave Hyzy<br/>Director of Information Technology<br/>Benderson Development Company</p></div><!--testimonial eight-->
+     <div><p>"Delivering on time and under budget, I would recommend Buffalo Creative Group to anyone looking for a uniquely creative collaboration."</p> <p class="credit">Dave Hyzy<br/>Director of Information Technology<br/>Benderson Development Company</p></div><!--testimonial ten-->
      
-     <div><p>"LOVE the business cards. They are so cute! Everyone who has seen them is raving. Thanks again!"</p> <p class="credit">Katie Kahn<br/>Owner<br/>Butter Me Up Bakery</p></div><!--testimonial nine-->
+     <div><p>"LOVE the business cards. They are so cute! Everyone who has seen them is raving. Thanks again!"</p> <p class="credit">Katie Kahn<br/>Owner<br/>Butter Me Up Bakery</p></div><!--testimonial eleven-->
      
-     <div><p>"We are very impressed by your contributions and your dedication to providing graphics in a timely manner, despite our last minute requests. Thank you!"</p> <p class="credit">Meg Lee<br/>Risk Management MDP<br/>M&T Bank</p></div><!--testimonial ten-->
+     <div><p>"We are very impressed by your contributions and your dedication to providing graphics in a timely manner, despite our last minute requests. Thank you!"</p> <p class="credit">Meg Lee<br/>Risk Management MDP<br/>M&T Bank</p></div><!--testimonial twelve-->
      
-     <div><p>"They are more than designers...they are business partners. I know that I can rely on them to take ownership of any project and learn what is needed to understand and successfully execute what I am trying to achieve."</p> <p class="credit">Karen Carey<br/>Marketing Manager<br/>Great Lakes Orthodontics</p></div><!--testimonial eleven-->
+     <div><p>"They are more than designers...they are business partners. I know that I can rely on them to take ownership of any project and learn what is needed to understand and successfully execute what I am trying to achieve."</p> <p class="credit">Karen Carey<br/>Marketing Manager<br/>Great Lakes Orthodontics</p></div><!--testimonial thirteen-->
    
    </div><!--/ testimonial slideshow-->
    
@@ -46,9 +49,10 @@ img[img.length]="images/aside-img2.jpg";
 img[img.length]="images/aside-img3.jpg";
 
 var rand=Math.round(Math.random()*(img.length-1));
-document.write("<img src='" + img[rand] + "' border='0' width='478' height='637' align='right' />");
+document.write("<img src='" + img[rand] + "' border='0' width='530' height='637' align='right' />");
 //--></script>
    <!-- end .content --></div>
+   <div class="clearMe"></div>
   <div class="footer">
     <p>&copy;2012 Buffalo Creative Group</p>
     <!-- end .footer --></div>

@@ -80,22 +80,21 @@ $('.slideshow2')
   <a href="http://www.buffalocreativegroup.com"><img src="images/BCG_logo_web.jpg" alt="Buffalo Creative Group" name="Insert_logo" width="416" height="127" id="Insert_logo" style="display:block;" /></a> 
   <ul class="headerBullets">
   	<li>Marketing Solutions
-  		<div>Creating effective ways of increasing your business’ visibility and 		
-  		prominence in your field, and setting you apart from your competition</div>
+  		<div><span class="hilight">Marketing Solutions:</span> Effective ways to insure visibility and prominence in your field, setting you apart from your competition</div>
   	</li>
   	<li>Brand Identity
   	<div>
-  	Developing a family of visual elements to portray a message about who you are in a consistent and professional manner
+  	<span class="hilight">Brand Identity:</span> A family of visual elements that help portray a message about who you are in a consistent and professional manner
   	</div>
   	</li>
   	<li>Social Media Strategy
   	<div>
-  	Integrating social media outlets like Facebook, Twitter and Linked In to engage your customers and widen your customer base
+  	<span class="hilight">Social Media Strategy:</span> Choosing to engage in outlets such as Facebook, Twitter or Linked In as part of your marketing plan will help build strong relationships and widen your customer base
   	</div>
   	</li>
   	<li>Multi-Media Design
   	<div>
-  	Utilizing various online and mobile devices to share your brand message
+  	<span class="hilight">Multi-Media Design:</span> Using a variety of web and mobile-based mediums to share your brand message
   	</div>
   	</li>
   </ul>

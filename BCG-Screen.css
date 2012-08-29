@@ -17,6 +17,10 @@ ul, ol, dl { /* Due to variations between browsers, it's best practices to zero 
 	padding: 0;
 	margin: 0;
 }
+
+blockquote{
+	text-indent:-5px;
+}
 h1,  h3, h4, h5, h6, p {
 	margin-top: 0;	 /* removing the top margin gets around an issue where margins can escape from their containing div. The remaining bottom margin will hold it away from any elements that follow. */
 	padding-right: 15px;
@@ -90,17 +94,19 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 ul.headerBullets{
 	float:right;
 	list-style-type:none;
-	margin:40px 10px 0px 0px;
+	margin:30px 10px 0px 0px;
 	text-align:right;
 	color:#89235c;
 	position:relative;
 }
 
 ul.headerBullets li{
-	margin:8px 0px;
+	margin:15px 0px;
 	padding:0px 20px 0px 0px;
 	background:url(images/arrow.jpg) no-repeat center right;
 	position:relative;
+	font-size:19px;
+	line-height:23px;
 }
 
 ul.headerBullets li div{
@@ -109,7 +115,7 @@ ul.headerBullets li div{
 	width:300px;
 	position:absolute;
 	top:25px;
-	left:-120px;
+	left:-110px;
 	background-color:#fff;
 	z-index:30;
 	padding:10px;
@@ -125,6 +131,11 @@ ul.headerBullets li:hover{
 ul.headerBullets li:hover div{
 	display:block;
 }
+
+.hilight{
+	color:#89205C;
+	font-weight:bold;
+}
 /* ~~ These are the columns for the layout. ~~ 
 
 1) Padding is only placed on the top and/or bottom of the divs. The elements within these divs have padding on their sides. This saves you from any "box model math". Keep in mind, if you add any side padding or border to the div itself, it will be added to the width you define to create the *total* width. You may also choose to remove the padding on the element in the div and place a second div within it with no width and the padding necessary for your design. You may also choose to remove the padding on the element in the div and place a second div within it with no width and the padding necessary for your design.
@@ -138,7 +149,7 @@ ul.headerBullets li:hover div{
 */
 .sidebar1 {
 	float: left;
-	width: 470px;
+	width: 420px;
 	padding-bottom: 10px;
 }
 .sidebar1 p {
@@ -151,7 +162,7 @@ ul.headerBullets li:hover div{
 #topImg {
 }
 .content {
-	width: 480px;
+	width: 530px;
 	float: right;
 }
 .slideshow {
@@ -178,7 +189,7 @@ ul.nav {
 }
 ul.nav li {
 	font-family: Verdana, Geneva, sans-serif;
-	font-size: 24px;
+	font-size: 22px;
 	color: #89205C;
 	padding-top: 30px;
 	padding-left: 36px;
@@ -188,23 +199,30 @@ ul.nav a, ul.nav a:visited { /* grouping these selectors makes sure that your li
 	text-decoration: none;
 	padding-bottom: 5px;
 	font-family: Verdana, Geneva, sans-serif;
-	font-size: 24px;
+	font-size: 22px;
 	color: #999;
 }
 ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background and text color for both mouse and keyboard navigators */
 	color: #89205C;
 	font-family: Verdana, Geneva, sans-serif;
-	font-size: 24px;
+	font-size: 22px;
 }
 
 /* ~~ The footer ~~ */
 .footer {
-	padding: 10px 0;
+	padding: 0;
 	position: relative;/* this gives IE6 hasLayout to properly clear */
 	clear: both;
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 12px;
+	float:right;
+	color:#fff;
+	margin:10px 0px;
 }
+
+.footer p{
+	padding:0px;
+} 
 .description {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 12px;
@@ -257,13 +275,14 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background
 /* ~~ testimonials~~ */
 
 #slideshow div{
-	width:350px;
-	margin-top:10px;
+	width:390px;
+	margin-top:100px;
 }
 
 #slideshow p{
 	font-size:13px;
 	line-height:22px;
+	text-indent:-5px;
 }
 
 #slideshow p.credit{
