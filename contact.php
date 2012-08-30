@@ -3,12 +3,7 @@
     <ul class="nav">
       <li><a href="index.php">About Us</a></li>
       <li><a href="portfolios.php">Portfolio</a></li>
-      <li>Contact Us<br />
-        <br />
-        <br />
-        <br />
-        
-      </li>
+      <li>Contact Us </li>
     </ul>
     <div id="slideshow">
    		<div><p>"Buffalo Creative Group’s work is imaginative and they give you exactly what you require to make your business and products stand out."</p> <p class="credit">- Michele Hurley, PT <br/>  Chief Executive Officer<br/>  Move With Me Physical Therapy</p></div><!--testimonial one-->
@@ -43,7 +38,7 @@ The Women & Children's Hospital of Buffalo</p></div><!--testimonial seven-->
     <!-- end .sidebar1 --></div>
   <div class="content">
   <h2>We would love to hear from you!</h2>
-  716-430-5982<br/> 
+  716-207-8680<br/> 
   <a href="mailto:hello@buffalocreativegroup.com">hello@buffalocreativegroup.com</a>
   <form name="contactform" method="post" action="send_form_email.php"> 
     <p>&nbsp;</p>
@@ -81,6 +76,7 @@ echo recaptcha_get_html($publickey, $error);
 
 
 <!-- end .content --></div>
+<div class="clearMe"></div>
   <div class="footer">
     <p>&copy;2012 Buffalo Creative Group</p>
     <!-- end .footer --></div>

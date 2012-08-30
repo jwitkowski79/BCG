@@ -61,8 +61,19 @@ $('.slideshow2')
     fx:     'fade', 
     speed:  'fast', 
     timeout: 0, 
-    next:   '#next2', 
-    prev:   '#prev2' 
+    next:   '.next2', 
+    prev:   '.prev2' 
+});
+});
+
+$(function() {
+$('.slideshow3') 
+.cycle({ 
+    fx:     'fade', 
+    speed:  'fast', 
+    timeout: 0, 
+    next:   '.next3', 
+    prev:   '.prev3' 
 });
 });
 

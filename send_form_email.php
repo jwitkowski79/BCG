@@ -46,6 +46,7 @@
       Someone will be in touch soon.
     </h3>
   </div>
+  <div class="clearMe"></div>
   <div class="footer">
     <p>&copy;2012 Buffalo Creative group</p>
     <!-- end .footer --></div>

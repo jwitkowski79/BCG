@@ -47,20 +47,85 @@ The Women & Children's Hospital of Buffalo</p></div><!--testimonial seven-->
      
       <div id="logos">
       	<div class="slideshow2">
-       	<div><img src="images/portfolioImg1.jpg"/>
-       	<p><strong>MOBLE BANKING APP</strong><br/>Designed interface and all functionality specs for iPhone app and Bookmarks for Android/Blackberry smartphones<br/>
-Client: M&T Bank</p></div>
-       	<div>slide 2</div>
+       	<div><img src="images/1-logos-campbellrezka.jpg"/>
+       	<p><strong>Client: Campbell Reszka & Associates</strong></div>
+       	<div><img src="images/2-logos-qcrg.jpg"/>
+       	<p><strong>Client: Queen City Roller Girls</strong></p></div>
+       	<div><img src="images/3-logos-oreug.jpg"/>
+       	<p><strong>Client: Oracle Real Estate Users Group (a division of Benderson Development)</strong></p></div>
+       		<div><img src="images/4-logos-atsimaging.jpg"/>
+       	<p><strong>Client: ATS Imaging</strong></p></div>
+       	<div><img src="images/5-logos-seriouslyclever.jpg"/>
+       	<p><strong>Client: Seriously Clever Marketing & Design</strong></p></div>
+       	<div><img src="images/6-logos-rebeccas.jpg"/>
+       	<p><strong>Client: Rebecca’s Salon & Day Spa</strong></p></div>
+       	<div><img src="images/7-logos-movewithme.jpg"/>
+       	<p><strong>Client: Move With Me Physical Therapy</strong></p></div>
+       	<div><img src="images/8-logos-buttermeup.jpg"/>
+       	<p><strong>Client: Butter Me Up Bakery</strong></p></div>
+       	<div><img src="images/9-logos-zesty.jpg"/>
+       	<p><strong>Client: Zesty Life Coaching</strong></p></div>
+       	<div><img src="images/10-logos-milesforsmiles.jpg"/>
+       	<p><strong>Client: Women & Children’s Hospital of Buffalo</strong></p></div>
+       	<div><img src="images/11-logos-abbymarie.jpg"/>
+       	<p><strong>Client: Abby Marie Hope for a Cure</strong></p></div>
+       	<div><img src="images/12-logos-firstfridays.jpg"/>
+       	<p><strong>Client: M&T Bank/Albright Knox Art Gallery</strong></p></div>
+       	
        	</div><!--/slideshow-->
        	<ul class="slideNav">
        	
-<li id="prev2"><a href="#">Prev</a></li>
-<li id="next2"><a href="#">Next</a></li>
+<li class="prev2"><a href="#">Prev</a></li>
+<li class="next2"><a href="#">Next</a></li>
 </ul>
       </div><!--logos-->
       <div id="print">
-       The Prototype JavaScript…
-      </div>
+       	<div class="slideshow3">
+       	<div><img src="images/1-print-beatfest.jpg"/>
+       	<p><strong>FLYERS</strong><br/>For promotion of annual Beat Fest summer festival: art direction, design, production.<p><strong>Client: Buffalo Environmental Action Team</strong></p>
+</div>
+       	<div><img src="images/2-print-rollerderby.jpg"/><p><strong>POSTER / TICKETS</strong><br/>For promotion of Queen City Roller Derby schedule, season tickets: art direction, production<p><strong>Client: Queen City Roller Girls </strong></p></div>
+       	
+       	<div><img src="images/3-print-movewithme.jpg"/><p><strong>BROCHURE / BUSINESS CARD</strong><br/>For promotion of therapy business: creative direction, design, production.<p><strong>Client: Move With Me Physical Therapy </strong></p></div>
+       	
+       	<div><img src="images/4-print-bmtc.jpg"/><p><strong>BROCHURE / BUSINESS CARD</strong><br/>For promotion of massage therapy center: creative direction, design, production.<p><strong>Client: Buffalo Massage Therapy Center </strong></p></div>
+       	
+       	<div><img src="images/5-print-tikigame.jpg"/><p><strong>BOARD GAME</strong><br/>Game box, playing cards, etc.<p><strong>Client: Toplin Tiki Game</strong></p></div>
+       	
+       		<div><img src="images/6-print-thelost.jpg"/><p><strong>BOOK JACKET</strong><br/>Book jacket design for fictional novel by Michele Hurley.<p><strong>Client: Michele Hurley</strong></p></div>
+       		
+       		<div><img src="images/7-print-mmilediecast-car.jpg"/><p><strong>DIE-CAST TOY CAR, BOX, PROMOTIONAL DISPLAY</strong><br/>Car sold at Dover Speedway as a promotional item for Monster Mile race and bank products: creative direction, design, production.<p><strong>Client: M&T Bank/Dover Speedway</strong></p></div>
+       		
+       		<div><img src="images/8-print_holytrinity.jpg"/><p><strong>POSTER</strong><br/>For promotion of a Christmas Advent Retreat: art direction, design<p><strong>Client: St. Stephen Serbim Orthodox Church </strong></p></div>
+       		
+       		<div><img src="images/9-print-lanskylights.jpg"/><p><strong>PRODUCT SELL SHEETS</strong><br/>Part of a series of LED light product line: art direction, product shots, design, production<p><strong>Client: LANSKY Lights</strong></p></div>
+       		
+       		<div><img src="images/10-print-floordecal.jpg"/><p><strong>FLOOR DECAL </strong><br/>For promotion of the bank’s checking product, for use on supermarket floor: creative direction, product shot, production<p><strong>Client: M&T Bank </strong></p></div>
+       		
+       		<div><img src="images/11-print-medea.jpg"/><p><strong>POSTER </strong><br/>For promotion of local play: creative direction, design<p><strong>Client: Alt Theatre  </strong></p></div>
+       		
+       		<div><img src="images/12-print-rebeccassalon.jpg"/><p><strong>PRICE GUIDE, GIFT CERTIFICATE, BUSINESS CARDS </strong><br/>Created new logo and identity for new salon: creative direction, design, production.<p><strong>Client: Rebecca’s Salon and Day Spa   </strong></p></div>
+       		
+       		<div><img src="images/13-print-showerinvite.jpg"/><p><strong>BRIDAL SHOWER INVITATION  </strong><br/>Creative direction, design, production<p><strong>Client: Barbara Mangione  </strong></p></div>
+       		
+       		<div><img src="images/14-print-lunarnewyear.jpg"/><p><strong>CHINESE LUNAR NEW YEAR ENVELOPES </strong><br/>Branch giveaways for customers celebrating the holiday: concept, creative direction, design.<p><strong>Client: M&T Bank</strong></p></div>
+       		
+       		<div><img src="images/15-print-museumsbymoonlight.jpg"/><p><strong>POSTER  </strong><br/>For promotion of local community event, sponsored by bank.<p><strong>Client: M&T Bank</strong></p></div>
+       		
+       		<div><img src="images/16-print-investmentgrp.jpg"/><p><strong>TRADE SHOW BANNERS  </strong><br/>For promotion of the bank’s investment products: art direction, design, production<p><strong>Client: M&T Investment Group </strong></p></div>
+       		
+       		<div><img src="images/17-print-weddinginvite.jpg"/><p><strong>WEDDING ANNOUNCEMENT, REPLY CARD, LABEL</strong><br/>Wedding announcement and collateral<p><strong>Client: Bonnar and Fitzgerald  </strong></p></div>
+       		
+       		<div><img src="images/18-print-tshirt.jpg"/><p><strong>T-SHIRT DESIGN</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.<p><strong>Client: M&T Bank</strong></p></div>
+       	
+       	
+       	</div><!--/slideshow-->
+       	<ul class="slideNav">
+       	
+<li class="prev3"><a href="#">Prev</a></li>
+<li class="next3"><a href="#">Next</a></li>
+</ul>
+      </div><!--/print-->
       <div id="web">
        Ext (X-t) is a JavaScript…
       </div>
@@ -71,6 +136,7 @@ Client: M&T Bank</p></div>
       
   
   </div><!--/content-->
+  <div class="clearMe"></div>
   <div class="footer">
     <p>&copy;2012 Buffalo Creative Group</p>
     <!-- end .footer --></div>
