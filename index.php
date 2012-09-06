@@ -1,7 +1,7 @@
 <?php include("header.php"); ?>
   <div class="sidebar1">
     <ul class="nav">
-      <li>About Us</li>
+      <li>Home</li>
       <li><a href="portfolios.php">Portfolio</a></li>
       <li><a href="contact.php">Contact Us</a></li>
     </ul>

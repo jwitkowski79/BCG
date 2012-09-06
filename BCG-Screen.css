@@ -78,14 +78,14 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 }
 #Insert_logo {
 	position: relative;
-	top: 64px;
+	top: 40px;
 	float:left;
 }
 
 /* ~~ the header is not given a width. It will extend the full width of your layout. It contains an image placeholder that should be replaced with your own linked logo ~~ */
 .header {
 	background-color: #FFFFFF;
-	height: 210px;
+	height: 180px;
 	border-bottom-width: 10px;
 	border-bottom-style: solid;
 	border-bottom-color: #89205C;
@@ -94,18 +94,18 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 ul.headerBullets{
 	float:right;
 	list-style-type:none;
-	margin:30px 10px 0px 0px;
+	margin:14px 10px 0px 0px;
 	text-align:right;
 	color:#89235c;
 	position:relative;
 }
 
 ul.headerBullets li{
-	margin:15px 0px;
+	margin:12px 0px;
 	padding:0px 20px 0px 0px;
 	background:url(images/arrow.jpg) no-repeat center right;
 	position:relative;
-	font-size:19px;
+	font-size:17px;
 	line-height:23px;
 }
 
@@ -149,7 +149,7 @@ ul.headerBullets li:hover div{
 */
 .sidebar1 {
 	float: left;
-	width: 420px;
+	width: 400px;
 	padding-bottom: 10px;
 }
 .sidebar1 p {
@@ -275,8 +275,8 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background
 /* ~~ testimonials~~ */
 
 #slideshow div{
-	width:390px;
-	margin-top:100px;
+	width:310px;
+	margin-top:80px;
 }
 
 #slideshow p{
@@ -293,14 +293,15 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background
 
 /* ~~ tabbed portfolio~ */
 #tabs{
-	width:459px;
+	width:520px;
 	position:relative;
+	
 }
 
 #logos, #print, #web, #multi{
 	float:left;
-	padding:10px 10px 10px 10px;
-	width:435px;
+	padding:30px 0px 0px 0px;
+	width:520px;
 	height:520px;
 	
 }
@@ -318,8 +319,8 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background
 	margin:0px 2px 0px 0px;
 	background-color:#d1d2d4;
 	text-transform:uppercase;
-	padding:5px 23px;
-	font-size:15px;
+	padding:4px 35px;
+	font-size:13px;
 }
 
 #tabs ul#menu li:last-child{
@@ -336,14 +337,18 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background
 	color: #89205c !important;
 }
 
-.slideshow2, .slideshow2 div, .slideshow3, .slideshow3 div{
-	width:435px !important;
+.slideshow2, .slideshow2 div, .slideshow3, .slideshow3 div, .slideshow4, .slideshow4 div{
+	width:520px !important;
 	float:left;
 	text-align:center;
 }
 
+.slideshow2 img,.slideshow3 img{
+	padding-bottom:20px;
+}
 
-a.prev2, a.prev3{
+
+a.prev2, a.prev3, a.prev4{
 	width:26px;
 	height:105px;
 	background:url(images/arrow_left.gif) no-repeat;
@@ -357,7 +362,7 @@ padding:0px;
 margin:0px;
 }
 
-ul.slideNav li.prev2, ul.slideNav li.prev3{
+ul.slideNav li.prev2, ul.slideNav li.prev3, ul.slideNav li.prev4{
 	width:26px;
 	height:105px;
 	background:url(images/arrow_left.gif) no-repeat;
@@ -365,11 +370,11 @@ ul.slideNav li.prev2, ul.slideNav li.prev3{
 	overflow:hidden;
 	float:left;
 	position:absolute;
-	top:230px;
+	top:495px;
 	z-index:1000;
 }
 
-ul.slideNav li.next2, ul.slideNav li.next3{
+ul.slideNav li.next2, ul.slideNav li.next3, ul.slideNav li.next4{
 	width:26px;
 	height:105px;
 	background:url(images/arrow_right.gif) no-repeat;
@@ -377,23 +382,31 @@ ul.slideNav li.next2, ul.slideNav li.next3{
 	overflow:hidden;
 	position:absolute;
 	right:10px;
-	top:230px;
+	top:495px;
 	z-index:1001;
 }
 
-.slideshow2 div p, .slideshow3 div p{
+.slideshow2 div p, .slideshow3 div p, .slideshow4 div p{
 	text-align:left;
 	font-size:12px;
+	width:425px;
+	margin-left:20px;
 }
 
-ul.slideNav li.next2 a, ul.slideNav li.next3 a{
+
+
+ul.slideNav li.next2 a, ul.slideNav li.next3 a, ul.slideNav li.next4 a{
 cursor:pointer;
 }
 
-ul.slideNav li.next2:hover, ul.slideNav li.prev2:hover, ul.slideNav li.next3:hover, ul.slideNav li.prev3:hover{
+ul.slideNav li.next2:hover, ul.slideNav li.prev2:hover, ul.slideNav li.next3:hover, ul.slideNav li.prev3:hover, ul.slideNav li.next4:hover, ul.slideNav li.prev4:hover{
 	cursor:pointer;
-	background-color:#444;
+	
 }
+
+a.youtube img{
+	margin:80px 0px 115px 0px;
+	}
 
 .currentProject{
 	margin-top:20px;

@@ -1,7 +1,7 @@
 <?php include("header.php"); ?>
   <div class="sidebar1">
     <ul class="nav">
-      <li><a href="index.php">About Us</a></li>
+      <li><a href="index.php">Home</a></li>
       <li>Portfolio</li>
       <li><a href="contact.php">Contact Us</a></li>
     </ul>
@@ -82,41 +82,41 @@ The Women & Children's Hospital of Buffalo</p></div><!--testimonial seven-->
       <div id="print">
        	<div class="slideshow3">
        	<div><img src="images/1-print-beatfest.jpg"/>
-       	<p><strong>FLYERS</strong><br/>For promotion of annual Beat Fest summer festival: art direction, design, production.<p><strong>Client: Buffalo Environmental Action Team</strong></p>
+       	<p><strong>FLYERS</strong><br/>For promotion of annual Beat Fest summer festival: art direction, design, production.</p><p><strong>Client: Buffalo Environmental Action Team</strong></p>
 </div>
-       	<div><img src="images/2-print-rollerderby.jpg"/><p><strong>POSTER / TICKETS</strong><br/>For promotion of Queen City Roller Derby schedule, season tickets: art direction, production<p><strong>Client: Queen City Roller Girls </strong></p></div>
+       	<div><img src="images/2-print-rollerderby.jpg"/><p><strong>POSTER / TICKETS</strong><br/>For promotion of Queen City Roller Derby schedule, season tickets: art direction, production</p><p><strong>Client: Queen City Roller Girls </strong></p></div>
        	
        	<div><img src="images/3-print-movewithme.jpg"/><p><strong>BROCHURE / BUSINESS CARD</strong><br/>For promotion of therapy business: creative direction, design, production.<p><strong>Client: Move With Me Physical Therapy </strong></p></div>
        	
-       	<div><img src="images/4-print-bmtc.jpg"/><p><strong>BROCHURE / BUSINESS CARD</strong><br/>For promotion of massage therapy center: creative direction, design, production.<p><strong>Client: Buffalo Massage Therapy Center </strong></p></div>
+       	<div><img src="images/4-print-bmtc.jpg"/><p><strong>BROCHURE / BUSINESS CARD</strong><br/>For promotion of massage therapy center: creative direction, design, production.</p><p><strong>Client: Buffalo Massage Therapy Center </strong></p></div>
        	
-       	<div><img src="images/5-print-tikigame.jpg"/><p><strong>BOARD GAME</strong><br/>Game box, playing cards, etc.<p><strong>Client: Toplin Tiki Game</strong></p></div>
+       	<div><img src="images/5-print-tikigame.jpg"/><p><strong>BOARD GAME</strong><br/>Game box, playing cards, etc.</p><p><strong>Client: Toplin Tiki Game</strong></p></div>
        	
-       		<div><img src="images/6-print-thelost.jpg"/><p><strong>BOOK JACKET</strong><br/>Book jacket design for fictional novel by Michele Hurley.<p><strong>Client: Michele Hurley</strong></p></div>
+       		<div><img src="images/6-print-thelost.jpg"/><p><strong>BOOK JACKET</strong><br/>Book jacket design for fictional novel by Michele Hurley.</p><p><strong>Client: Michele Hurley</strong></p></div>
        		
-       		<div><img src="images/7-print-mmilediecast-car.jpg"/><p><strong>DIE-CAST TOY CAR, BOX, PROMOTIONAL DISPLAY</strong><br/>Car sold at Dover Speedway as a promotional item for Monster Mile race and bank products: creative direction, design, production.<p><strong>Client: M&T Bank/Dover Speedway</strong></p></div>
+       		<div><img src="images/7-print-mmilediecast-car.jpg"/><p><strong>DIE-CAST TOY CAR, BOX, PROMOTIONAL DISPLAY</strong><br/>Car sold at Dover Speedway as a promotional item for Monster Mile race and bank products: creative direction, design, production.</p><p><strong>Client: M&T Bank/Dover Speedway</strong></p></div>
        		
-       		<div><img src="images/8-print_holytrinity.jpg"/><p><strong>POSTER</strong><br/>For promotion of a Christmas Advent Retreat: art direction, design<p><strong>Client: St. Stephen Serbim Orthodox Church </strong></p></div>
+       		<div><img src="images/8-print_holytrinity.jpg"/><p><strong>POSTER</strong><br/>For promotion of a Christmas Advent Retreat: art direction, design</p><p><strong>Client: St. Stephen Serbim Orthodox Church </strong></p></div>
        		
-       		<div><img src="images/9-print-lanskylights.jpg"/><p><strong>PRODUCT SELL SHEETS</strong><br/>Part of a series of LED light product line: art direction, product shots, design, production<p><strong>Client: LANSKY Lights</strong></p></div>
+       		<div><img src="images/9-print-lanskylights.jpg"/><p><strong>PRODUCT SELL SHEETS</strong><br/>Part of a series of LED light product line: art direction, product shots, design, production</p><p><strong>Client: LANSKY Lights</strong></p></div>
        		
-       		<div><img src="images/10-print-floordecal.jpg"/><p><strong>FLOOR DECAL </strong><br/>For promotion of the bank’s checking product, for use on supermarket floor: creative direction, product shot, production<p><strong>Client: M&T Bank </strong></p></div>
+       		<div><img src="images/10-print-floordecal.jpg"/><p><strong>FLOOR DECAL </strong><br/>For promotion of the bank’s checking product, for use on supermarket floor: creative direction, product shot, production</p><p><strong>Client: M&T Bank </strong></p></div>
        		
-       		<div><img src="images/11-print-medea.jpg"/><p><strong>POSTER </strong><br/>For promotion of local play: creative direction, design<p><strong>Client: Alt Theatre  </strong></p></div>
+       		<div><img src="images/11-print-medea.jpg"/><p><strong>POSTER </strong><br/>For promotion of local play: creative direction, design</p><p><strong>Client: Alt Theatre  </strong></p></div>
        		
-       		<div><img src="images/12-print-rebeccassalon.jpg"/><p><strong>PRICE GUIDE, GIFT CERTIFICATE, BUSINESS CARDS </strong><br/>Created new logo and identity for new salon: creative direction, design, production.<p><strong>Client: Rebecca’s Salon and Day Spa   </strong></p></div>
+       		<div><img src="images/12-print-rebeccassalon.jpg"/><p><strong>PRICE GUIDE, GIFT CERTIFICATE, BUSINESS CARDS </strong><br/>Created new logo and identity for new salon: creative direction, design, production.</p><p><strong>Client: Rebecca’s Salon and Day Spa   </strong></p></div>
        		
-       		<div><img src="images/13-print-showerinvite.jpg"/><p><strong>BRIDAL SHOWER INVITATION  </strong><br/>Creative direction, design, production<p><strong>Client: Barbara Mangione  </strong></p></div>
+       		<div><img src="images/13-print-showerinvite.jpg"/><p><strong>BRIDAL SHOWER INVITATION  </strong><br/>Creative direction, design, production</p><p><strong>Client: Barbara Mangione  </strong></p></div>
        		
-       		<div><img src="images/14-print-lunarnewyear.jpg"/><p><strong>CHINESE LUNAR NEW YEAR ENVELOPES </strong><br/>Branch giveaways for customers celebrating the holiday: concept, creative direction, design.<p><strong>Client: M&T Bank</strong></p></div>
+       		<div><img src="images/14-print-lunarnewyear.jpg"/><p><strong>CHINESE LUNAR NEW YEAR ENVELOPES </strong><br/>Branch giveaways for customers celebrating the holiday: concept, creative direction, design.</p><p><strong>Client: M&T Bank</strong></p></div>
        		
-       		<div><img src="images/15-print-museumsbymoonlight.jpg"/><p><strong>POSTER  </strong><br/>For promotion of local community event, sponsored by bank.<p><strong>Client: M&T Bank</strong></p></div>
+       		<div><img src="images/15-print-museumsbymoonlight.jpg"/><p><strong>POSTER  </strong><br/>For promotion of local community event, sponsored by bank.</p><p><strong>Client: M&T Bank</strong></p></div>
        		
-       		<div><img src="images/16-print-investmentgrp.jpg"/><p><strong>TRADE SHOW BANNERS  </strong><br/>For promotion of the bank’s investment products: art direction, design, production<p><strong>Client: M&T Investment Group </strong></p></div>
+       		<div><img src="images/16-print-investmentgrp.jpg"/><p><strong>TRADE SHOW BANNERS  </strong><br/>For promotion of the bank’s investment products: art direction, design, production</p><p><strong>Client: M&T Investment Group </strong></p></div>
        		
-       		<div><img src="images/17-print-weddinginvite.jpg"/><p><strong>WEDDING ANNOUNCEMENT, REPLY CARD, LABEL</strong><br/>Wedding announcement and collateral<p><strong>Client: Bonnar and Fitzgerald  </strong></p></div>
+       		<div><img src="images/17-print-weddinginvite.jpg"/><p><strong>WEDDING ANNOUNCEMENT, REPLY CARD, LABEL</strong><br/>Wedding announcement and collateral</p><p><strong>Client: Bonnar and Fitzgerald  </strong></p></div>
        		
-       		<div><img src="images/18-print-tshirt.jpg"/><p><strong>T-SHIRT DESIGN</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.<p><strong>Client: M&T Bank</strong></p></div>
+       		<div><img src="images/18-print-tshirt.jpg"/><p><strong>T-SHIRT DESIGN</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
        	
        	
        	</div><!--/slideshow-->
@@ -130,8 +130,27 @@ The Women & Children's Hospital of Buffalo</p></div><!--testimonial seven-->
        Ext (X-t) is a JavaScript…
       </div>
        <div id="multi">
-      Multi
-      </div>
+       	<div class="slideshow4">
+    <div><a class='youtube' href="http://www.youtube.com/embed/OcR-dX9f_eQ?rel=0&amp;wmode=transparent" title="Bills Unattended Laptop"><img src="images/vid1.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
+    <div><a class='youtube' href="http://www.youtube.com/embed/F5_L4Ch29ag?rel=0&amp;wmode=transparent" title="Be Wise, Memorize..."><img src="images/vid2.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
+     <div><a class='youtube' href="http://www.youtube.com/embed/DvXA2JbWcPs?rel=0&amp;wmode=transparent" title="Lock Your Screen"><img src="images/vid3.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
+     <div><a class='youtube' href="http://www.youtube.com/embed/wjXGYYWdKxE?rel=0&amp;wmode=transparent" title="Branch Trivia"><img src="images/vid4.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
+     <div><a class='youtube' href="http://www.youtube.com/embed/k7Cr7sgs01Q?rel=0&amp;wmode=transparent" title="Commercial History Flipbook"><img src="images/vid5.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
+      <div><a class='youtube' href="http://www.youtube.com/embed/pzCwtsfRark?rel=0&amp;wmode=transparent" title="M&T Bank Dover Monster Mile"><img src="images/vid6.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
+        <div><a class='youtube' href="http://www.youtube.com/embed/oXiO9RcF194?rel=0&amp;wmode=transparent" title="M&T Bank Careful What You Click"><img src="images/vid7.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
+        <div><a class='youtube' href="http://www.youtube.com/embed/eO-7SsqJVP0?rel=0&amp;wmode=transparent" title="M&T Bank Careful What You Say" ><img src="images/vid8.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
+        <div><a class='youtube' href="http://www.youtube.com/embed/w32pX9E9nlY?rel=0&amp;wmode=transparent" title="M&T Bank Don't Piggyback" ><img src="images/vid9.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
+         <div><a class='youtube' href="http://www.youtube.com/embed/Zz31_HzOBkI?rel=0&amp;wmode=transparent" title="M&T Bank Spin the Wheel" ><img src="images/vid10.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
+         <div><a class='youtube' href="http://www.youtube.com/embed/XOcAxO80I5Q?rel=0&amp;wmode=transparent" title="M&T Bank Hide Your Screen" ><img src="images/vid11.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
+         <div><a class='youtube' href="http://www.youtube.com/embed/TGhoB-tRQkw?rel=0&amp;wmode=transparent" title="M&T Bank Office Security Squad" ><img src="images/vid12.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
+         <div><a class='youtube' href="http://www.youtube.com/embed/tCRDj-pfOqc?rel=0&amp;wmode=transparent" title="Immortal Guardians: The Lost" ><img src="images/vid13.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
+		</div><!--slideshow-->
+			<ul class="slideNav">
+       	
+<li class="prev4"><a href="#">Prev</a></li>
+<li class="next4"><a href="#">Next</a></li>
+</ul>
+      </div><!--/multi-->
     </div><!--/tabs-->
       
   
