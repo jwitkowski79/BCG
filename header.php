@@ -88,6 +88,28 @@ $('.slideshow4')
 });
 });
 
+$(function() {
+$('.slideshow5') 
+.cycle({ 
+    fx:     'fade', 
+    speed:  'fast', 
+    timeout: 0, 
+    next:   '.next5', 
+    prev:   '.prev5' 
+});
+});
+
+$(function() {
+$('.slideshow6') 
+.cycle({ 
+    fx:     'fade', 
+    speed:  'fast', 
+    timeout: 0, 
+    next:   '.next6', 
+    prev:   '.prev6' 
+});
+});
+
 </script>
 <script type="text/javascript"> 
   $("#usual1 ul").idTabs(); 

@@ -298,7 +298,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background
 	
 }
 
-#logos, #print, #web, #multi{
+#logos, #print, #web, #multi, #book{
 	float:left;
 	padding:30px 0px 0px 0px;
 	width:520px;
@@ -319,8 +319,8 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background
 	margin:0px 2px 0px 0px;
 	background-color:#d1d2d4;
 	text-transform:uppercase;
-	padding:4px 35px;
-	font-size:13px;
+	padding:4px 9px;
+	font-size:12px;
 }
 
 #tabs ul#menu li:last-child{
@@ -337,7 +337,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background
 	color: #89205c !important;
 }
 
-.slideshow2, .slideshow2 div, .slideshow3, .slideshow3 div, .slideshow4, .slideshow4 div{
+.slideshow2, .slideshow2 div, .slideshow3, .slideshow3 div, .slideshow4, .slideshow4 div, .slideshow5, .slideshow5 div, .slideshow6, .slideshow6 div{
 	width:520px !important;
 	float:left;
 	text-align:center;
@@ -347,8 +347,17 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background
 	padding-bottom:20px;
 }
 
+.slideshow5 img{
+	padding:30px 0px 20px 0px;
 
-a.prev2, a.prev3, a.prev4{
+}
+
+.slideshow4 img.multiStatic{
+	padding-bottom:20px;
+}
+
+
+a.prev2, a.prev3, a.prev4, a.prev5, a.prev6{
 	width:26px;
 	height:105px;
 	background:url(images/arrow_left.gif) no-repeat;
@@ -362,7 +371,7 @@ padding:0px;
 margin:0px;
 }
 
-ul.slideNav li.prev2, ul.slideNav li.prev3, ul.slideNav li.prev4{
+ul.slideNav li.prev2, ul.slideNav li.prev3, ul.slideNav li.prev4, ul.slideNav li.prev5, ul.slideNav li.prev6{
 	width:26px;
 	height:105px;
 	background:url(images/arrow_left.gif) no-repeat;
@@ -374,7 +383,7 @@ ul.slideNav li.prev2, ul.slideNav li.prev3, ul.slideNav li.prev4{
 	z-index:1000;
 }
 
-ul.slideNav li.next2, ul.slideNav li.next3, ul.slideNav li.next4{
+ul.slideNav li.next2, ul.slideNav li.next3, ul.slideNav li.next4, ul.slideNav li.next5, ul.slideNav li.next6{
 	width:26px;
 	height:105px;
 	background:url(images/arrow_right.gif) no-repeat;
@@ -386,7 +395,7 @@ ul.slideNav li.next2, ul.slideNav li.next3, ul.slideNav li.next4{
 	z-index:1001;
 }
 
-.slideshow2 div p, .slideshow3 div p, .slideshow4 div p{
+.slideshow2 div p, .slideshow3 div p, .slideshow4 div p, .slideshow5 div p, .slideshow6 div p{
 	text-align:left;
 	font-size:12px;
 	width:425px;
@@ -394,18 +403,23 @@ ul.slideNav li.next2, ul.slideNav li.next3, ul.slideNav li.next4{
 }
 
 
+.slideshow2 div p{
+	margin-top:30px;
+}
 
-ul.slideNav li.next2 a, ul.slideNav li.next3 a, ul.slideNav li.next4 a{
+
+
+ul.slideNav li.next2 a, ul.slideNav li.next3 a, ul.slideNav li.next4 a, ul.slideNav li.next5 a, ul.slideNav li.next6 a{
 cursor:pointer;
 }
 
-ul.slideNav li.next2:hover, ul.slideNav li.prev2:hover, ul.slideNav li.next3:hover, ul.slideNav li.prev3:hover, ul.slideNav li.next4:hover, ul.slideNav li.prev4:hover{
+ul.slideNav li.next2:hover, ul.slideNav li.prev2:hover, ul.slideNav li.next3:hover, ul.slideNav li.prev3:hover, ul.slideNav li.next4:hover, ul.slideNav li.prev4:hover, ul.slideNav li.next5:hover, ul.slideNav li.prev5:hover, ul.slideNav li.next6:hover, ul.slideNav li.prev6:hover{
 	cursor:pointer;
 	
 }
 
 a.youtube img{
-	margin:80px 0px 115px 0px;
+	margin:70px 0px 115px 0px;
 	}
 
 .currentProject{

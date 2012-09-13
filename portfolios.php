@@ -41,7 +41,8 @@ The Women & Children's Hospital of Buffalo</p></div><!--testimonial seven-->
         <ul id="menu">
         <li class="active"><a href="#logos">Logos</a></li>
         <li><a href="#print">Print</a></li>
-        <li><a href="#web">Web</a></li>
+        <li><a href="#web">Websites</a></li>
+        <li><a href="#book">Video Book Trailers</a></li>
         <li><a href="#multi">Multi-media</a></li>
       </ul>
      
@@ -127,23 +128,67 @@ The Women & Children's Hospital of Buffalo</p></div><!--testimonial seven-->
 </ul>
       </div><!--/print-->
       <div id="web">
-       Ext (X-t) is a JavaScript…
-      </div>
+       	<div class="slideshow5">
+       <div><img src="images/4_web_norascarlett.jpg"/><p><strong>norascarlett.com</strong><br/>(photography studio)</p><p><strong>Client: Nora Scarlett Studio (photography)</strong></p></div>
+        <div><img src="images/3_web_michelehurley.jpg"/><p><strong>michelehurley.com</strong><br/>(author)</p><p><strong>Client: Michele Hurley</strong></p></div>
+        <div><img src="images/2_web_marimcneil.jpg"/><p><strong>marimcneil.com</strong><br/>(jazz musician)</p><p><strong>Client: Mari McNeil</strong></p></div>
+        <div><img src="images/1_web_ea.jpg"/><p><strong>eapreschoolcenter.com</strong><br/>(East Aurora preschool center)</p><p><strong>Client: East Aurora Preschool Center</strong></p></div>
+      </div><!--/slideshow-->
+      <ul class="slideNav">
+       	
+<li class="prev5"><a href="#">Prev</a></li>
+<li class="next5"><a href="#">Next</a></li>
+</ul>
+      </div><!--/web-->
+      
+      
+      <div id="book">
+      <div class="slideshow6">
+       <div><a class='youtube' href="http://www.youtube.com/embed/tCRDj-pfOqc?rel=0&amp;wmode=transparent" title="Immortal Guardians: The Lost" ><img src="images/vid13.jpg" /></a><p><strong>Immortal Guardians: The Lost</strong><br/>Used for promotion of Michele Hurley’s debut novel: concept, creative direction, script, storyboarding and production.</p><p><strong>Client: Michele Hurley</strong></p></div>
+        <div><a class='youtube' href="#" ><img src="images/vid20.jpg" /></a><p><strong>Hippos Go to the Hospital</strong><br/>Used for promotion of Cristina Pippa’s Story & Activity book: concept, creative direction, script, storyboarding and production.</p><p><strong>Client: Cristina Pippa and Colleen Darb</strong></p></div>
+        <div><a class='youtube' href="#" ><img src="images/vid19.jpg" /></a><p><strong>Maggie Hope Book Series</strong><br/>Used for promotion of Susan Elia MacNeal’s book series (Mr. Churchill’s Secretary and Princess Elizabeth’s Spy): concept, creative direction, script, storyboarding and production.</p><p><strong>Client: Susan Elia MacNeal’s</strong></p></div>
+      </div><!--/slideshow6-->
+      <ul class="slideNav">
+       	
+<li class="prev6"><a href="#">Prev</a></li>
+<li class="next6"><a href="#">Next</a></li>
+</ul>
+      </div><!--book-->
+      
+      
+      
        <div id="multi">
        	<div class="slideshow4">
-    <div><a class='youtube' href="http://www.youtube.com/embed/OcR-dX9f_eQ?rel=0&amp;wmode=transparent" title="Bills Unattended Laptop"><img src="images/vid1.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
-    <div><a class='youtube' href="http://www.youtube.com/embed/F5_L4Ch29ag?rel=0&amp;wmode=transparent" title="Be Wise, Memorize..."><img src="images/vid2.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
-     <div><a class='youtube' href="http://www.youtube.com/embed/DvXA2JbWcPs?rel=0&amp;wmode=transparent" title="Lock Your Screen"><img src="images/vid3.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
-     <div><a class='youtube' href="http://www.youtube.com/embed/wjXGYYWdKxE?rel=0&amp;wmode=transparent" title="Branch Trivia"><img src="images/vid4.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
-     <div><a class='youtube' href="http://www.youtube.com/embed/k7Cr7sgs01Q?rel=0&amp;wmode=transparent" title="Commercial History Flipbook"><img src="images/vid5.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
-      <div><a class='youtube' href="http://www.youtube.com/embed/pzCwtsfRark?rel=0&amp;wmode=transparent" title="M&T Bank Dover Monster Mile"><img src="images/vid6.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
-        <div><a class='youtube' href="http://www.youtube.com/embed/oXiO9RcF194?rel=0&amp;wmode=transparent" title="M&T Bank Careful What You Click"><img src="images/vid7.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
-        <div><a class='youtube' href="http://www.youtube.com/embed/eO-7SsqJVP0?rel=0&amp;wmode=transparent" title="M&T Bank Careful What You Say" ><img src="images/vid8.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
-        <div><a class='youtube' href="http://www.youtube.com/embed/w32pX9E9nlY?rel=0&amp;wmode=transparent" title="M&T Bank Don't Piggyback" ><img src="images/vid9.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
-         <div><a class='youtube' href="http://www.youtube.com/embed/Zz31_HzOBkI?rel=0&amp;wmode=transparent" title="M&T Bank Spin the Wheel" ><img src="images/vid10.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
-         <div><a class='youtube' href="http://www.youtube.com/embed/XOcAxO80I5Q?rel=0&amp;wmode=transparent" title="M&T Bank Hide Your Screen" ><img src="images/vid11.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
-         <div><a class='youtube' href="http://www.youtube.com/embed/TGhoB-tRQkw?rel=0&amp;wmode=transparent" title="M&T Bank Office Security Squad" ><img src="images/vid12.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
-         <div><a class='youtube' href="http://www.youtube.com/embed/tCRDj-pfOqc?rel=0&amp;wmode=transparent" title="Immortal Guardians: The Lost" ><img src="images/vid13.jpg" /></a><p><strong>Title Goes Here</strong><br/>Design created for the annual Corporate Challenge race: concept, creative direction, copy, design.</p><p><strong>Client: M&T Bank</strong></p></div>
+       	<div><a class='youtube' href="http://www.youtube.com/embed/eSUf-av-HaU?rel=0&amp;wmode=transparent" title="M&T Bank Mobile Banking App" ><img src="images/vid15.jpg" /></a><p><strong>M&T Bank Mobile App</strong><br/>This mobile app was the first of its kind produced in Western New York: concept, design, functionality and asset production.</p><p><strong>Client: M&T Bank</strong></p></div>
+       	<div><a class='youtube' href="http://www.youtube.com/embed/uI2UTb18w1o?rel=0&amp;wmode=transparent" title="M&T Bank Mobile Demo" ><img src="images/vid14.jpg" /></a><p><strong>M&T Mobile Banking Demo</strong><br/>An animated demo with voice-over to instruct customers on the use of the M&T Mobile App: concept, creative direction, script, storyboarding and production.</p><p><strong>Client: M&T Bank</strong></p></div>
+       	<div><img src="images/vid17.jpg" class="multiStatic"/><p><strong>San Jose Promotional Email</strong><br/>Email used to promote Sports Hall of Fame event: concept, design, html coding, production.</p><p><strong>Client: San Jose Sports Authority</strong></p></div>
+       	<div><a class='youtube' href="http://www.youtube.com/embed/TGhoB-tRQkw?rel=0&amp;wmode=transparent" title="M&T Bank Office Security Squad" ><img src="images/vid12.jpg" /></a><p><strong>Information Security Squad Title Sequence</strong><br/>"Info Security Squad" animated series for Information Security awareness campaign: concept, creative direction, script and storyboarding.</p><p><strong>Client: M&T Bank</strong></p></div>
+       	<div><a class='youtube' href="http://www.youtube.com/embed/XOcAxO80I5Q?rel=0&amp;wmode=transparent" title="M&T Bank Hide Your Screen" ><img src="images/vid11.jpg" /></a><p><strong>Don’t let it be seen, hide your screen.</strong><br/>"Info Security Squad" animated series for Information Security awareness campaign: concept, creative direction, script and storyboarding.</p><p><strong>Client: M&T Bank</strong></p></div>
+       	 <div><a class='youtube' href="http://www.youtube.com/embed/oXiO9RcF194?rel=0&amp;wmode=transparent" title="M&T Bank Careful What You Click"><img src="images/vid7.jpg" /></a><p><strong>Be careful what you click, it might be a trick.</strong><br/>"Info Security Squad" animated series for Information Security awareness campaign: concept, creative direction, script and storyboarding.</p><p><strong>Client: M&T Bank</strong></p></div>
+       	  <div><a class='youtube' href="http://www.youtube.com/embed/eO-7SsqJVP0?rel=0&amp;wmode=transparent" title="M&T Bank Careful What You Say" ><img src="images/vid8.jpg" /></a><p><strong>Be careful what you say, do it the M&T way!</strong><br/>"Info Security Squad" animated series for Information Security awareness campaign: concept, creative direction, script and storyboarding.</p><p><strong>Client: M&T Bank</strong></p></div>
+       	  <div><a class='youtube' href="http://www.youtube.com/embed/w32pX9E9nlY?rel=0&amp;wmode=transparent" title="M&T Bank Don't Piggyback" ><img src="images/vid9.jpg" /></a><p><strong>You’re on the wrong track if you let anyone piggyback.</strong><br/>"Info Security Squad" animated series for Information Security awareness campaign: concept, creative direction, script and storyboarding.</p><p><strong>Client: M&T Bank</strong></p></div>
+       	  <div><img src="images/vid18.jpg" class="multiStatic" /><p><strong>Monster Mile Promotional Email</strong><br/>One in a series of M&T Bank emails used to promote Dover Speedway’s Monster Mile race and associated bank products: concept, design, html coding, production.</p><p><strong>Client: M&T Bank/Dover Speedway</strong></p></div>
+       	  <div><a class='youtube' href="http://www.youtube.com/embed/WOwyhWydwVU?rel=0&amp;wmode=transparent" title="M&T Bank Don't Piggyback" ><img src="images/vid16.jpg" /></a><p><strong>M&T Mobile Banking Carousel Demo</strong><br/>Used to showcase the M&T Mobile App’s versatility, displaying sample phones with App installed on screen: concept, creative direction, and production.</p><p><strong>Client: M&T Bank</strong></p></div>
+       	   <div><a class='youtube' href="http://www.youtube.com/embed/k7Cr7sgs01Q?rel=0&amp;wmode=transparent" title="Commercial History Flipbook"><img src="images/vid5.jpg" /></a><p><strong>M&T Bank Commercial Banking flipbook</strong><br/>Used to promote products and services of the bank’s Commercial Banking group: creative direction and production.</p><p><strong>Client: M&T Bank</strong></p></div>
+       	   <div><a class='youtube' href="http://www.youtube.com/embed/pzCwtsfRark?rel=0&amp;wmode=transparent" title="M&T Bank Dover Monster Mile"><img src="images/vid6.jpg" /></a><p><strong>Dover Speedway Web Banner</strong><br/>Flash web banner ad used to promote M&T Bank’s Monster Mile card and related prod- ucts: concept, creative direction, script, storyboarding and production.</p><p><strong>Client: M&T Bank</strong></p></div>
+       	     <div><a class='youtube' href="http://www.youtube.com/embed/Zz31_HzOBkI?rel=0&amp;wmode=transparent" title="M&T Bank Spin the Wheel" ><img src="images/vid10.jpg" /></a><p><strong>In-Branch Video Screen</strong><br/>Used for on-site bank branch video screens for promotion of M&T Visa Credit Card: concept, creative direction, script, storyboarding and production.</p><p><strong>Client: M&T Bank</strong></p></div>
+       	     <div><a class='youtube' href="http://www.youtube.com/embed/wjXGYYWdKxE?rel=0&amp;wmode=transparent" title="Branch Trivia"><img src="images/vid4.jpg" /></a><p><strong>In-Branch Video Screen</strong><br/>Used for on-site bank branch video screen to highlight the Norland Branch history: concept, creative direction, script, storyboarding and production.</p><p><strong>Client: M&T Bank</strong></p></div>
+       	      <div><a class='youtube' href="http://www.youtube.com/embed/F5_L4Ch29ag?rel=0&amp;wmode=transparent" title="Be Wise, Memorize..."><img src="images/vid2.jpg" /></a><p><strong>Be Wise...Memorize!</strong><br/>"Bac2Basics" animated series for Information Security awareness campaign: concept, creative direction, script, storyboarding and production.</p><p><strong>Client: M&T Bank</strong></p></div>
+       	          	   
+    <div><a class='youtube' href="http://www.youtube.com/embed/OcR-dX9f_eQ?rel=0&amp;wmode=transparent" title="Bills Unattended Laptop"><img src="images/vid1.jpg" /></a><p><strong>Bill’s Unattended Laptop</strong><br/>"Back2Basics" animated series for Information Security awareness campaign: concept, creative direction, script, storyboarding and production.</p><p><strong>Client: M&T Bank</strong></p></div>
+   
+     <div><a class='youtube' href="http://www.youtube.com/embed/DvXA2JbWcPs?rel=0&amp;wmode=transparent" title="Lock Your Screen"><img src="images/vid3.jpg" /></a><p><strong>Lock Your Screen, Then Leave the Scene</strong><br/>"Back2Basics" animated series for Information Security awareness campaign: concept, creative direction, script,</p><p><strong>Client: M&T Bank</strong></p></div>
+     
+    
+     
+       
+       
+        
+       
+         
+         
+        
+          
 		</div><!--slideshow-->
 			<ul class="slideNav">
        	
