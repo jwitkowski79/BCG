@@ -44,9 +44,14 @@ The Women & Children's Hospital of Buffalo</p></div><!--testimonial seven-->
   
   <script type="text/javascript"><!--
 var img=new Array();
-img[img.length]="images/aside-img1.jpg";
-img[img.length]="images/aside-img2.jpg";
-img[img.length]="images/aside-img3.jpg";
+img[img.length]="images/homepg-fabric.jpg";
+img[img.length]="images/homepg-lightbulb.jpg";
+img[img.length]="images/homepg-reef.jpg";
+img[img.length]="images/homepg-oranges.jpg";
+img[img.length]="images/homepg-fishbowl.jpg";
+img[img.length]="images/homepg-tulips.jpg";
+img[img.length]="images/homepg-butterfly.jpg";
+img[img.length]="images/homepg-macaw.jpg";
 
 var rand=Math.round(Math.random()*(img.length-1));
 document.write("<img src='" + img[rand] + "' border='0' width='530' height='637' align='right' />");

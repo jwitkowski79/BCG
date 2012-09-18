@@ -418,33 +418,73 @@ ul.slideNav li.next2:hover, ul.slideNav li.prev2:hover, ul.slideNav li.next3:hov
 	
 }
 
+a.youtube{
+	display:block;
+}
+
 a.youtube img{
 	margin:70px 0px 115px 0px;
 	}
+	
+#book a.youtube img{
+	margin:70px 0px 120px 0px !important;
+	}
+	
+
 
 .currentProject{
 	margin-top:20px;
 }
 
 form{
-	margin-bottom:100px;
+	margin:5px 0px 100px 0px;
+	width:490px;
+	font-size:15px;
 }
 
 
 input[type=text]{
-	width:281px;
+	width:420px;
 	height:18px;
 	border:1px solid #999;
+	float:right;
+}
+
+input#find[type=text]{
+	width:305px !important;
+}
+
+label{
+	display:block;
+	margin-bottom:10px;
 }
 
 textarea {
-	width:281px;
+	width:490px;
 	height:125px;
 	border:1px solid #999;
 
 }
 
-#submit {
+.requiredText{
+	font-size:12px;
+line-height:40px;
+}
+
+.error{
+	font-size:12px;
+	color:#ca0500;
+}
+
+.thanks{
+	padding:20px 0px 0px 0px !important;
+}
+
+.submitMe {
+position:relative;
+top:-37px;
+left:0px;
+float:right;
 	-moz-box-shadow:inset 0px 1px 0px 0px #44badb;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #44badb;
 	box-shadow:inset 0px 1px 0px 0px #44badb;
@@ -458,10 +498,10 @@ textarea {
 	font-family:Verdana;
 	font-size:13px;
 	font-weight:bold;
-	padding:6px 18px;
+	padding:6px 20px;
 	text-decoration:none;
 	text-shadow:1px 1px 0px #135669;
-}#submit:hover {
+}.submitMe:hover {
 	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #1b687d), color-stop(1, #30a2bf) );
 	background:-moz-linear-gradient( center top, #1b687d 5%, #30a2bf 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1b687d', endColorstr='#30a2bf');

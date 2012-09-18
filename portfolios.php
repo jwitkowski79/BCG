@@ -103,9 +103,9 @@ The Women & Children's Hospital of Buffalo</p></div><!--testimonial seven-->
        		
        		<div><img src="images/10-print-floordecal.jpg"/><p><strong>FLOOR DECAL </strong><br/>For promotion of the bank’s checking product, for use on supermarket floor: creative direction, product shot, production</p><p><strong>Client: M&T Bank </strong></p></div>
        		
-       		<div><img src="images/11-print-medea.jpg"/><p><strong>POSTER </strong><br/>For promotion of local play: creative direction, design</p><p><strong>Client: Alt Theatre  </strong></p></div>
+       		<div><img src="images/11-print-medea.jpg"/><p><strong>POSTER </strong><br/>For promotion of local play: creative direction, design</p><p><strong>Client: Alt Theatre  </strong></p></div>
        		
-       		<div><img src="images/12-print-rebeccassalon.jpg"/><p><strong>PRICE GUIDE, GIFT CERTIFICATE, BUSINESS CARDS </strong><br/>Created new logo and identity for new salon: creative direction, design, production.</p><p><strong>Client: Rebecca’s Salon and Day Spa   </strong></p></div>
+       		<div><img src="images/12-print-rebeccassalon.jpg"/><p><strong>PRICE GUIDE, GIFT CERTIFICATE, BUSINESS CARD </strong><br/>Created new logo and identity for new salon: creative direction, design, production.</p><p><strong>Client: Rebecca’s Salon and Day Spa   </strong></p></div>
        		
        		<div><img src="images/13-print-showerinvite.jpg"/><p><strong>BRIDAL SHOWER INVITATION  </strong><br/>Creative direction, design, production</p><p><strong>Client: Barbara Mangione  </strong></p></div>
        		
@@ -129,10 +129,10 @@ The Women & Children's Hospital of Buffalo</p></div><!--testimonial seven-->
       </div><!--/print-->
       <div id="web">
        	<div class="slideshow5">
-       <div><img src="images/4_web_norascarlett.jpg"/><p><strong>norascarlett.com</strong><br/>(photography studio)</p><p><strong>Client: Nora Scarlett Studio (photography)</strong></p></div>
-        <div><img src="images/3_web_michelehurley.jpg"/><p><strong>michelehurley.com</strong><br/>(author)</p><p><strong>Client: Michele Hurley</strong></p></div>
-        <div><img src="images/2_web_marimcneil.jpg"/><p><strong>marimcneil.com</strong><br/>(jazz musician)</p><p><strong>Client: Mari McNeil</strong></p></div>
-        <div><img src="images/1_web_ea.jpg"/><p><strong>eapreschoolcenter.com</strong><br/>(East Aurora preschool center)</p><p><strong>Client: East Aurora Preschool Center</strong></p></div>
+       <div><a href="http://www.norascarlett.com" target="_blank"><img src="images/4_web_norascarlett.jpg"/></a><p><strong> <a href="http://www.norascarlett.com" target="_blank">norascarlett.com</a></strong><br/>(photography studio).</p><p><strong>Client: Nora Scarlett Studio</strong></p></div>
+        <div><a href="http://www.michelehurley.com" target="_blank"><img src="images/3_web_michelehurley.jpg"/></a><p><strong><a href="http://www.michelehurley.com" target="_blank">michelehurley.com</a></strong><br/>(author).  </p><p><strong>Client: Michele Hurley</strong></p></div>
+        <div><a href="http://www.marimcneil.com" target="_blank"><img src="images/2_web_marimcneil.jpg"/></a><p><strong><a href="http://www.marimcneil.com" target="_blank">marimcneil.com</a></strong><br/>(jazz musician). </p><p><strong>Client: Mari McNeil</strong></p></div>
+        <div><a href="http://www.eapreschoolcenter.com" target="_blank"><img src="images/1_web_ea.jpg"/></a><p><strong><a href="http://www.eapreschoolcenter.com" target="_blank">eapreschoolcenter.com</a></strong><br/>(preschool center). </p><p><strong>Client: East Aurora Preschool Center</strong></p></div>
       </div><!--/slideshow-->
       <ul class="slideNav">
        	
@@ -145,8 +145,8 @@ The Women & Children's Hospital of Buffalo</p></div><!--testimonial seven-->
       <div id="book">
       <div class="slideshow6">
        <div><a class='youtube' href="http://www.youtube.com/embed/tCRDj-pfOqc?rel=0&amp;wmode=transparent" title="Immortal Guardians: The Lost" ><img src="images/vid13.jpg" /></a><p><strong>Immortal Guardians: The Lost</strong><br/>Used for promotion of Michele Hurley’s debut novel: concept, creative direction, script, storyboarding and production.</p><p><strong>Client: Michele Hurley</strong></p></div>
-        <div><a class='youtube' href="#" ><img src="images/vid20.jpg" /></a><p><strong>Hippos Go to the Hospital</strong><br/>Used for promotion of Cristina Pippa’s Story & Activity book: concept, creative direction, script, storyboarding and production.</p><p><strong>Client: Cristina Pippa and Colleen Darb</strong></p></div>
-        <div><a class='youtube' href="#" ><img src="images/vid19.jpg" /></a><p><strong>Maggie Hope Book Series</strong><br/>Used for promotion of Susan Elia MacNeal’s book series (Mr. Churchill’s Secretary and Princess Elizabeth’s Spy): concept, creative direction, script, storyboarding and production.</p><p><strong>Client: Susan Elia MacNeal’s</strong></p></div>
+        <div><a class='youtube' href="#" ><img src="images/vid20.jpg" /></a><p><strong>Hippos Go to the Hospital</strong><br/>Used for promotion of Cristina Pippa’s Story & Activity book: concept, creative direction, script, storyboarding and production.</p><p><strong>Client: Cristina Pippa and Colleen Darby</strong></p></div>
+        <div><a class='youtube' href="#" ><img src="images/vid19.jpg" /></a><p><strong>Maggie Hope Book Series</strong><br/>Used for promotion of Susan Elia MacNeal’s book series (Mr. Churchill’s Secretary and Princess Elizabeth’s Spy): concept, creative direction, script, storyboarding and production.</p><p><strong>Client: Susan Elia MacNeal</strong></p></div>
       </div><!--/slideshow6-->
       <ul class="slideNav">
        	
@@ -170,10 +170,10 @@ The Women & Children's Hospital of Buffalo</p></div><!--testimonial seven-->
        	  <div><img src="images/vid18.jpg" class="multiStatic" /><p><strong>Monster Mile Promotional Email</strong><br/>One in a series of M&T Bank emails used to promote Dover Speedway’s Monster Mile race and associated bank products: concept, design, html coding, production.</p><p><strong>Client: M&T Bank/Dover Speedway</strong></p></div>
        	  <div><a class='youtube' href="http://www.youtube.com/embed/WOwyhWydwVU?rel=0&amp;wmode=transparent" title="M&T Bank Don't Piggyback" ><img src="images/vid16.jpg" /></a><p><strong>M&T Mobile Banking Carousel Demo</strong><br/>Used to showcase the M&T Mobile App’s versatility, displaying sample phones with App installed on screen: concept, creative direction, and production.</p><p><strong>Client: M&T Bank</strong></p></div>
        	   <div><a class='youtube' href="http://www.youtube.com/embed/k7Cr7sgs01Q?rel=0&amp;wmode=transparent" title="Commercial History Flipbook"><img src="images/vid5.jpg" /></a><p><strong>M&T Bank Commercial Banking flipbook</strong><br/>Used to promote products and services of the bank’s Commercial Banking group: creative direction and production.</p><p><strong>Client: M&T Bank</strong></p></div>
-       	   <div><a class='youtube' href="http://www.youtube.com/embed/pzCwtsfRark?rel=0&amp;wmode=transparent" title="M&T Bank Dover Monster Mile"><img src="images/vid6.jpg" /></a><p><strong>Dover Speedway Web Banner</strong><br/>Flash web banner ad used to promote M&T Bank’s Monster Mile card and related prod- ucts: concept, creative direction, script, storyboarding and production.</p><p><strong>Client: M&T Bank</strong></p></div>
+       	   <div><a class='youtube' href="http://www.youtube.com/embed/pzCwtsfRark?rel=0&amp;wmode=transparent" title="M&T Bank Dover Monster Mile"><img src="images/vid6.jpg" /></a><p><strong>Dover Speedway Web Banner</strong><br/>Flash web banner ad used to promote M&T Bank’s Monster Mile card and related products: concept, creative direction, script, storyboarding and production.</p><p><strong>Client: M&T Bank</strong></p></div>
        	     <div><a class='youtube' href="http://www.youtube.com/embed/Zz31_HzOBkI?rel=0&amp;wmode=transparent" title="M&T Bank Spin the Wheel" ><img src="images/vid10.jpg" /></a><p><strong>In-Branch Video Screen</strong><br/>Used for on-site bank branch video screens for promotion of M&T Visa Credit Card: concept, creative direction, script, storyboarding and production.</p><p><strong>Client: M&T Bank</strong></p></div>
        	     <div><a class='youtube' href="http://www.youtube.com/embed/wjXGYYWdKxE?rel=0&amp;wmode=transparent" title="Branch Trivia"><img src="images/vid4.jpg" /></a><p><strong>In-Branch Video Screen</strong><br/>Used for on-site bank branch video screen to highlight the Norland Branch history: concept, creative direction, script, storyboarding and production.</p><p><strong>Client: M&T Bank</strong></p></div>
-       	      <div><a class='youtube' href="http://www.youtube.com/embed/F5_L4Ch29ag?rel=0&amp;wmode=transparent" title="Be Wise, Memorize..."><img src="images/vid2.jpg" /></a><p><strong>Be Wise...Memorize!</strong><br/>"Bac2Basics" animated series for Information Security awareness campaign: concept, creative direction, script, storyboarding and production.</p><p><strong>Client: M&T Bank</strong></p></div>
+       	      <div><a class='youtube' href="http://www.youtube.com/embed/F5_L4Ch29ag?rel=0&amp;wmode=transparent" title="Be Wise, Memorize..."><img src="images/vid2.jpg" /></a><p><strong>Be Wise...Memorize!</strong><br/>"Back2Basics" animated series for Information Security awareness campaign: concept, creative direction, script, storyboarding and production.</p><p><strong>Client: M&T Bank</strong></p></div>
        	          	   
     <div><a class='youtube' href="http://www.youtube.com/embed/OcR-dX9f_eQ?rel=0&amp;wmode=transparent" title="Bills Unattended Laptop"><img src="images/vid1.jpg" /></a><p><strong>Bill’s Unattended Laptop</strong><br/>"Back2Basics" animated series for Information Security awareness campaign: concept, creative direction, script, storyboarding and production.</p><p><strong>Client: M&T Bank</strong></p></div>
    
